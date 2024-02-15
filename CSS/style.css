@@ -1,0 +1,10 @@
+.info{
+    columns: 4 20px;
+    column-rule-style: dotted;
+    column-rule-color: blueviolet;
+    column-rule-width: 5px;
+}
+
+.info div{
+    border: solid 2px;
+}
